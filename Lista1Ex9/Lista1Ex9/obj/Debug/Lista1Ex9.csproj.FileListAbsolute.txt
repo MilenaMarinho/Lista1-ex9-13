@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.exe.config
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.exe
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.pdb
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.exe
+C:\Users\User\Desktop\LIP2\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.pdb
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.exe.config
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.exe
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\bin\Debug\Lista1Ex9.pdb
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.exe
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex9\Lista1Ex9\obj\Debug\Lista1Ex9.pdb

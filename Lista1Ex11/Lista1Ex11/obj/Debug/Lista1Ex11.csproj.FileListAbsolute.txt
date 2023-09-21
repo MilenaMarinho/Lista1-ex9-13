@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe.config
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.pdb
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.exe
+C:\Users\User\Desktop\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.pdb
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe.config
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.pdb
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.AssemblyReference.cache
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.exe
+C:\Users\Rony\Documents\5. IFSP\IFSP_2022\SEMESTRE 2\LIP2\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.pdb
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe.config
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.exe
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\bin\Debug\Lista1Ex11.pdb
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.AssemblyReference.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.exe
+C:\Users\Rony\Desktop\LISTA01\Lista1Ex11\Lista1Ex11\obj\Debug\Lista1Ex11.pdb
